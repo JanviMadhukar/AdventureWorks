@@ -73,9 +73,6 @@ The management team needed a solution to:
 
 
 
-## Sample Dashboard Preview
-
-![executive_dashboard](images/executive_dashboard.png)
 
 ## 📸 Sample Dashboard Screens
 
