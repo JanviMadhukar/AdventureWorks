@@ -77,14 +77,8 @@ The management team needed a solution to:
 
 📌 *Click the image to view full size*
 
-![Dashboard Preview](images/dashboard-preview.png)
+![executive_dashboard](images/executive_dashboard.png)
 
-## 📊 Sample Dashboard Preview
-
-📌 *Click the image to view full size*
-
-[![Dashboard Preview](images/.png)](images/dashboard-preview.png)
-images/Category Tooltip.png
 
 
 
