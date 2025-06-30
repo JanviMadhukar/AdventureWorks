@@ -77,6 +77,17 @@ The management team needed a solution to:
 
 ![executive_dashboard](images/executive_dashboard.png)
 
+## 📸 Sample Dashboard Screens
+
+### 📊 Executive Dashboard
+![Executive Dashboard](images/executive_dashboard.png)
+
+### 🛍 Product Details
+![Product Detail](images/product_details.png)
+
+### 👤 Customer Insights
+![Customer Detail](images/customer_details.png)
+
 
 
 
