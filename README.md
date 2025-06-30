@@ -86,6 +86,8 @@ The management team needed a solution to:
 ![Customer Detail](images/customer_details.png)
 
 
+### 🗺️ Regional Sales Map  
+![Regional Map](images/maps.png)
 
 
 
