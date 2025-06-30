@@ -79,15 +79,15 @@ The management team needed a solution to:
 ### 📊 Executive Dashboard
 ![Executive Dashboard](images/executive_dashboard.png)
 
+### 🗺️ Regional Sales Map  
+![Regional Map](images/maps.png)
+
 ### 🛍 Product Details
 ![Product Detail](images/product_details.png)
 
 ### 👤 Customer Insights
 ![Customer Detail](images/customer_details.png)
 
-
-### 🗺️ Regional Sales Map  
-![Regional Map](images/maps.png)
 
 
 
