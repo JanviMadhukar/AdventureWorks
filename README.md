@@ -84,6 +84,7 @@ The management team needed a solution to:
 📌 *Click the image to view full size*
 
 [![Dashboard Preview](images/.png)](images/dashboard-preview.png)
+images/Category Tooltip.png
 
 
 
