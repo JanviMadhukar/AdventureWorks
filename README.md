@@ -75,8 +75,6 @@ The management team needed a solution to:
 
 ## Sample Dashboard Preview
 
-📌 *Click the image to view full size*
-
 ![executive_dashboard](images/executive_dashboard.png)
 
 
