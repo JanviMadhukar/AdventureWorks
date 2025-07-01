@@ -91,21 +91,9 @@ The management team needed a solution to:
 
 
 
-###  Repository Structure
-
-The repository includes the following key files and folders:
-
-- Adventure Works Report.pbix – Main Power BI dashboard file  
-- images – Contains dashboard screenshots  
-- raw-data – CSV files used in the Power BI data model  
-- README.md – Project documentation  
-- LICENSE – MIT license file  
 
 
 
 
 
-## License
-
-This project is released under the MIT License.
 
